@@ -1,0 +1,402 @@
+[
+  {
+    "encoded": "USCIDU-6560-U-21177-188-VBE-ABW",
+    "raw": "6560-C-49055-106-JXY"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21178-188-UFE-XRI",
+    "raw": "6560-C-49056-106-ICY"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21179-188-TJD-PGT",
+    "raw": "6560-C-49057-106-HGX"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21170-188-SMC-AYS",
+    "raw": "6560-C-49058-106-GJW"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21171-188-CQB-XWS",
+    "raw": "6560-C-49059-106-FNV"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21182-188-UAT-EGR",
+    "raw": "6560-C-49060-106-IWD"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21183-188-TEH-FHD",
+    "raw": "6560-C-49061-106-HBC"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21184-188-STH-BUU",
+    "raw": "6560-C-49062-106-GFC"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21185-188-CLG-GLL",
+    "raw": "6560-C-49063-106-FIB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21186-188-QPF-YKZ",
+    "raw": "6560-C-49064-106-EMA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21187-188-PUE-VJC",
+    "raw": "6560-C-49065-106-DQY"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21188-188-OYD-EUQ",
+    "raw": "6560-C-49066-106-CUX"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21189-188-NCC-XRR",
+    "raw": "6560-C-49067-106-BYX"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21180-188-MFC-ZDW",
+    "raw": "6560-C-49068-106-ACW"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21181-188-LJB-GRI",
+    "raw": "6560-C-49069-106-YGV"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21192-188-OST-DQI",
+    "raw": "6560-C-49070-106-CPD"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21193-188-NXH-QDV",
+    "raw": "6560-C-49071-106-BTC"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21194-188-TLG-NKY",
+    "raw": "6560-C-49072-106-AXB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21195-188-UTH-IET",
+    "raw": "6560-C-49073-106-YBB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21196-188-VEH-JAE",
+    "raw": "6560-C-49074-106-XFA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21197-188-WAT-XAS",
+    "raw": "6560-C-49075-106-WJY"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21198-188-XWJ-QLR",
+    "raw": "6560-C-49076-106-VNX"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21199-188-YRK-DLE",
+    "raw": "6560-C-49077-106-URW"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21190-188-ZOL-JVD",
+    "raw": "6560-C-49078-106-TUV"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21191-188-AKL-IBL",
+    "raw": "6560-C-49079-106-SYV"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21102-188-XBE-HYQ",
+    "raw": "6560-C-49080-106-EQV"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21103-188-YXF-QWQ",
+    "raw": "6560-C-49081-106-FMW"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21104-188-ZSG-DXC",
+    "raw": "6560-C-49082-106-GIX"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21105-188-APH-VGV",
+    "raw": "6560-C-49083-106-HFY"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21106-188-BLT-KHJ",
+    "raw": "6560-C-49084-106-IBA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21107-188-DHT-SZQ",
+    "raw": "6560-C-49085-106-JWA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21108-188-EDJ-ANE",
+    "raw": "6560-C-49086-106-KSB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21109-188-FZK-JLE",
+    "raw": "6560-C-49087-106-LZC"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21100-188-GWL-DVD",
+    "raw": "6560-C-49088-106-MLD"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21101-188-HRM-FEJ",
+    "raw": "6560-C-49089-106-NHE"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21112-188-ETF-XGR",
+    "raw": "6560-C-49090-106-KXW"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21113-188-FEF-GNK",
+    "raw": "6560-C-49091-106-LTW"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21114-188-GAG-IBW",
+    "raw": "6560-C-49092-106-MPX"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21115-188-HXH-NPU",
+    "raw": "6560-C-49093-106-NMY"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21116-188-IST-KCI",
+    "raw": "6560-C-49094-106-ZIA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21117-188-JOJ-DDV",
+    "raw": "6560-C-49095-106-PEB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21118-188-KKK-FPI",
+    "raw": "6560-C-49096-106-QAB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21119-188-LGK-NEU",
+    "raw": "6560-C-49097-106-RVC"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21110-188-MDL-VMX",
+    "raw": "6560-C-49098-106-SSD"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21111-188-NZM-FKX",
+    "raw": "6560-C-49099-106-TZE"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21222-188-ZAL-EUU",
+    "raw": "6560-C-49100-106-NWG"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21223-188-YEK-MGI",
+    "raw": "6560-C-49101-106-MBF"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21224-188-XTJ-YKH",
+    "raw": "6560-C-49102-106-LFF"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21225-188-WMJ-YXP",
+    "raw": "6560-C-49103-106-KJE"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21226-188-VPT-VNA",
+    "raw": "6560-C-49104-106-JMD"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21227-188-UUH-IBM",
+    "raw": "6560-C-49105-106-IQC"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21228-188-TYG-APX",
+    "raw": "6560-C-49106-106-HUB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21229-188-SCF-GSW",
+    "raw": "6560-C-49107-106-GYA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21220-188-OGH-DIU",
+    "raw": "6560-C-49108-106-FDA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21221-188-PDT-DVF",
+    "raw": "6560-C-49109-106-EGY"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21232-188-MUB-KWY",
+    "raw": "6560-C-49110-106-SJS"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21233-188-NPC-WWL",
+    "raw": "6560-C-49111-106-TFT"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21234-188-OLD-UKY",
+    "raw": "6560-C-49112-106-UBU"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21235-188-PHE-SWM",
+    "raw": "6560-C-49113-106-VWV"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21236-188-QEE-VVB",
+    "raw": "6560-C-49114-106-WTV"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21237-188-CAF-VDV",
+    "raw": "6560-C-49115-106-XPW"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21238-188-SWG-WSK",
+    "raw": "6560-C-49116-106-YLX"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21239-188-TRH-KRX",
+    "raw": "6560-C-49117-106-AHY"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21230-188-UNT-EAT",
+    "raw": "6560-C-49118-106-BDA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21231-188-VKJ-WLI",
+    "raw": "6560-C-49119-106-CAA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21242-188-SBB-MSY",
+    "raw": "6560-C-49120-106-YQS"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21243-188-TXC-DUY",
+    "raw": "6560-C-49121-106-AMT"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21244-188-USD-QTN",
+    "raw": "6560-C-49122-106-BIU"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21245-188-VOE-SHA",
+    "raw": "6560-C-49123-106-CEV"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21246-188-WLF-JIK",
+    "raw": "6560-C-49124-106-DBW"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21247-188-XHG-LUW",
+    "raw": "6560-C-49125-106-EWW"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21248-188-YDG-TJJ",
+    "raw": "6560-C-49126-106-FSX"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21249-188-ZZH-LNQ",
+    "raw": "6560-C-49127-106-GZY"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21240-188-AVT-MJM",
+    "raw": "6560-C-49128-106-HKA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21241-188-BRJ-FJA",
+    "raw": "6560-C-49129-106-IHB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21252-188-DEM-JEI",
+    "raw": "6560-C-49130-106-QBH"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21253-188-BTL-GEQ",
+    "raw": "6560-C-49131-106-PFG"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21254-188-AML-IMM",
+    "raw": "6560-C-49132-106-ZJG"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21255-188-ZQK-QRS",
+    "raw": "6560-C-49133-106-NNF"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21256-188-YUJ-IHF",
+    "raw": "6560-C-49134-106-MQE"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21257-188-XYT-QJQ",
+    "raw": "6560-C-49135-106-LUD"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21258-188-WCH-GYP",
+    "raw": "6560-C-49136-106-KYC"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21250-188-UKG-VVR",
+    "raw": "6560-C-49138-106-IHB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21259-188-VGG-XNB",
+    "raw": "6560-C-49137-106-JDC"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21251-188-TNF-CXB",
+    "raw": "6560-C-49139-106-HKA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21262-188-WXM-MMN",
+    "raw": "6560-C-49140-106-KTH"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21263-188-VBL-GIZ",
+    "raw": "6560-C-49141-106-JXG"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21264-188-UFK-ZTD",
+    "raw": "6560-C-49142-106-ICF"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21265-188-TJJ-WFR",
+    "raw": "6560-C-49143-106-HGF"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21266-188-SMJ-KCH",
+    "raw": "6560-C-49144-106-GJE"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21267-188-CQT-RMH",
+    "raw": "6560-C-49145-106-FND"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21268-188-QVH-PMJ",
+    "raw": "6560-C-49146-106-ERC"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21269-188-PZG-XXX",
+    "raw": "6560-C-49147-106-DVB"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21260-188-ODF-IWF",
+    "raw": "6560-C-49148-106-CAA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21261-188-NGF-FYJ",
+    "raw": "6560-C-49149-106-BDA"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21272-188-QPM-FVB",
+    "raw": "6560-C-49150-106-EMH"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21273-188-PUL-TEM",
+    "raw": "6560-C-49151-106-DQG"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21274-188-OYK-LSX",
+    "raw": "6560-C-49152-106-CUF"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21275-188-SKD-YZE",
+    "raw": "6560-C-49153-106-BYE"
+  },
+  {
+    "encoded": "USCIDU-6560-U-21276-188-THE-INS",
+    "raw": "6560-C-49154-106-ACD"
+  }
+]

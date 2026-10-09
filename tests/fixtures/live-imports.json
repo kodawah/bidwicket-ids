@@ -1,0 +1,50 @@
+[
+  {
+    "item": "27292",
+    "variant": "108",
+    "id": "USCIDU-637-F-06911-287-TES-EFM",
+    "quantity": 1,
+    "store": "637",
+    "exported_quantity": 1
+  },
+  {
+    "item": "27489",
+    "variant": "109",
+    "id": "USCIDU-637-F-06108-288-EBR-XYA",
+    "quantity": 2,
+    "store": "637",
+    "exported_quantity": 2
+  },
+  {
+    "item": "27561",
+    "variant": "109",
+    "id": "USCIDU-637-F-06280-288-PTC-HEY",
+    "quantity": 3,
+    "store": "637",
+    "exported_quantity": 3
+  },
+  {
+    "item": "309767",
+    "variant": "105",
+    "id": "USCIDU-637-F-196958-992-RTJ-AVC",
+    "quantity": 1,
+    "store": "637",
+    "exported_quantity": 1
+  },
+  {
+    "item": "309491",
+    "variant": "105",
+    "id": "USCIDU-637-F-196682-992-ULC-KXZ",
+    "quantity": 1,
+    "store": "637",
+    "exported_quantity": 1
+  },
+  {
+    "item": "309606",
+    "variant": "105",
+    "id": "USCIDU-637-F-196897-992-MNO-UMW",
+    "quantity": 1,
+    "store": "637",
+    "exported_quantity": 1
+  }
+]

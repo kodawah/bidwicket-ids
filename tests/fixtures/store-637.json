@@ -1,0 +1,314 @@
+[
+  {
+    "item": "27204",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06923-285-WGV-EIQ",
+    "store": "637"
+  },
+  {
+    "item": "27223",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06942-285-SIN-ZGM",
+    "store": "637"
+  },
+  {
+    "item": "27223",
+    "variant": "109",
+    "encoded": "USCIDU-637-F-06942-288-ZFN-VET",
+    "store": "637"
+  },
+  {
+    "item": "27225",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06944-285-QQL-CPP",
+    "store": "637"
+  },
+  {
+    "item": "27225",
+    "variant": "109",
+    "encoded": "USCIDU-637-F-06944-288-XML-GEJ",
+    "store": "637"
+  },
+  {
+    "item": "27246",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06965-285-BAW-VEE",
+    "store": "637"
+  },
+  {
+    "item": "27248",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06967-285-ODY-LKT",
+    "store": "637"
+  },
+  {
+    "item": "27249",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06968-285-EPZ-NKS",
+    "store": "637"
+  },
+  {
+    "item": "27277",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06996-285-EOK-KIE",
+    "store": "637"
+  },
+  {
+    "item": "27286",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06905-285-ZCL-XBT",
+    "store": "637"
+  },
+  {
+    "item": "27286",
+    "variant": "108",
+    "encoded": "USCIDU-637-F-06905-287-MAL-BDS",
+    "store": "637"
+  },
+  {
+    "item": "27286",
+    "variant": "109",
+    "encoded": "USCIDU-637-F-06905-288-GYL-HUW",
+    "store": "637"
+  },
+  {
+    "item": "27287",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06906-285-YHK-UAG",
+    "store": "637"
+  },
+  {
+    "item": "27306",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06025-285-RRO-KHW",
+    "store": "637"
+  },
+  {
+    "item": "27322",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06041-285-VTO-CQU",
+    "store": "637"
+  },
+  {
+    "item": "27334",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06053-285-ODR-FMM",
+    "store": "637"
+  },
+  {
+    "item": "27342",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06061-285-SYT-MPR",
+    "store": "637"
+  },
+  {
+    "item": "27343",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06062-285-RCS-GMS",
+    "store": "637"
+  },
+  {
+    "item": "27354",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06073-285-JYR-JHY",
+    "store": "637"
+  },
+  {
+    "item": "27360",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06089-285-HBU-WPL",
+    "store": "637"
+  },
+  {
+    "item": "27366",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06085-285-BZO-UNZ",
+    "store": "637"
+  },
+  {
+    "item": "27370",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06099-285-CMM-INX",
+    "store": "637"
+  },
+  {
+    "item": "27379",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06098-285-LBU-JPF",
+    "store": "637"
+  },
+  {
+    "item": "27386",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06005-285-PVS-SUM",
+    "store": "637"
+  },
+  {
+    "item": "27423",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06142-285-TZW-GSY",
+    "store": "637"
+  },
+  {
+    "item": "27432",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06151-285-NOX-AYK",
+    "store": "637"
+  },
+  {
+    "item": "27433",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06152-285-MDW-CIA",
+    "store": "637"
+  },
+  {
+    "item": "27438",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06157-285-HMS-WXP",
+    "store": "637"
+  },
+  {
+    "item": "27441",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06160-285-ICX-JYL",
+    "store": "637"
+  },
+  {
+    "item": "27443",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06162-285-GLW-PJZ",
+    "store": "637"
+  },
+  {
+    "item": "27451",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06170-285-BLJ-WTV",
+    "store": "637"
+  },
+  {
+    "item": "27455",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06174-285-FUM-KDR",
+    "store": "637"
+  },
+  {
+    "item": "27459",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06178-285-JFR-TQU",
+    "store": "637"
+  },
+  {
+    "item": "27489",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06108-285-XGS-KRR",
+    "store": "637"
+  },
+  {
+    "item": "27499",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06118-285-MIP-VEB",
+    "store": "637"
+  },
+  {
+    "item": "27522",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06241-285-JEA-FWU",
+    "store": "637"
+  },
+  {
+    "item": "27542",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06261-285-GRG-EAT",
+    "store": "637"
+  },
+  {
+    "item": "27544",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06263-285-IJI-AAE",
+    "store": "637"
+  },
+  {
+    "item": "27544",
+    "variant": "108",
+    "encoded": "USCIDU-637-F-06263-287-VLI-SNC",
+    "store": "637"
+  },
+  {
+    "item": "27544",
+    "variant": "109",
+    "encoded": "USCIDU-637-F-06263-288-BNI-PJF",
+    "store": "637"
+  },
+  {
+    "item": "27556",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06275-285-IXY-CYE",
+    "store": "637"
+  },
+  {
+    "item": "27561",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06280-285-HWC-JJX",
+    "store": "637"
+  },
+  {
+    "item": "27577",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-06296-285-ITJ-FFB",
+    "store": "637"
+  },
+  {
+    "item": "27292",
+    "variant": "108",
+    "encoded": "USCIDU-637-F-06911-287-TES-EFM",
+    "store": "637"
+  },
+  {
+    "item": "27489",
+    "variant": "109",
+    "encoded": "USCIDU-637-F-06108-288-EBR-XYA",
+    "store": "637"
+  },
+  {
+    "item": "27561",
+    "variant": "109",
+    "encoded": "USCIDU-637-F-06280-288-PTC-HEY",
+    "store": "637"
+  },
+  {
+    "item": "309631",
+    "variant": "105",
+    "encoded": "USCIDU-637-F-196822-992-EDJ-NXI",
+    "store": "637"
+  },
+  {
+    "item": "309701",
+    "variant": "106",
+    "encoded": "USCIDU-637-F-196992-993-GGZ-HHR",
+    "store": "637"
+  },
+  {
+    "item": "309745",
+    "variant": "105",
+    "encoded": "USCIDU-637-F-196936-992-FUX-KBY",
+    "store": "637"
+  },
+  {
+    "item": "309491",
+    "variant": "105",
+    "encoded": "USCIDU-637-F-196682-992-ULC-KXZ",
+    "store": "637"
+  },
+  {
+    "item": "309606",
+    "variant": "105",
+    "encoded": "USCIDU-637-F-196897-992-MNO-UMW",
+    "store": "637"
+  },
+  {
+    "item": "309767",
+    "variant": "105",
+    "encoded": "USCIDU-637-F-196958-992-RTJ-AVC",
+    "store": "637"
+  }
+]
